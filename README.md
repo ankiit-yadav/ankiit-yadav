@@ -8,12 +8,12 @@ Full Stack Development
 The crossover between design and programming has always been of interest to me.I have a wide range of skills that include front-end development (React, HTML5, CSS3, Javascript, Responsive),Bootstrap, Data structures, Algorithm ,C++,Java.
 
 
-![Visitor Count](https://profile-counter.glitch.me/ankiitdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ankiit-yadav/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankiitdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankiit-yadav&column=7"/>
   </a>
 </div>
 
@@ -49,7 +49,7 @@ Languages and Tools:
 - 🔭 I’m currently working on HTML,CSS,Javascript,Bootstrap,React JS 
 - 🌱 I’m currently learning
 - 📫 How to reach me: ankiityadav.work@gmail.com
-- 😄 Pronouns:Aadii
+- 😄 Pronouns:He/His
 
 <!--
 **Ankiitdeveloper/Ankiitdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
