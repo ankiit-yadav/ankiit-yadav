@@ -51,8 +51,6 @@ Languages and Tools:
 
 <a href="http://www.github.com/ankiit-yadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankiit-yadav&stroke=000000&background=eeeeee&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/ankiit-yadav"><img src="https://activity-graph.herokuapp.com/graph?username=ankiit-yadav&bg_color=eeeeee&color=000000&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
   
 ![](https://activity-graph.herokuapp.com/graph?username=ankiitdeveloper&theme=react-dark&area=true)
 - 🔭 I’m currently working on HTML,CSS,Javascript,Bootstrap,React JS 
