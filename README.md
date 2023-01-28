@@ -44,6 +44,15 @@ Languages and Tools:
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
+    
+   <b>My GitHub Stats</b>
+
+   <a href="http://www.github.com/ankiit-yadav"><img src="https://github-readme-stats.vercel.app/api?username=ankiit-yadav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=eeeeee&hide_border=true&show_icons=true" alt="ankiit-yadav's GitHub stats" /></a>
+
+<a href="http://www.github.com/ankiit-yadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankiit-yadav&stroke=000000&background=eeeeee&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/ankiit-yadav"><img src="https://activity-graph.herokuapp.com/graph?username=ankiit-yadav&bg_color=eeeeee&color=000000&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
   
 ![](https://activity-graph.herokuapp.com/graph?username=ankiitdeveloper&theme=react-dark&area=true)
 - 🔭 I’m currently working on HTML,CSS,Javascript,Bootstrap,React JS 
