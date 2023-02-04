@@ -55,7 +55,7 @@ Languages and Tools:
   
 ![](https://activity-graph.herokuapp.com/graph?username=ankiitdeveloper&theme=react-dark&area=true)
 - 🔭 I’m currently working on HTML,CSS,Javascript,Bootstrap,React JS 
-- 🌱 I’m currently learning
+- 🌱 I’m currently Learning
 - 📫 How to reach me: ankiityadav.work@gmail.com
 - 😄 Pronouns:He/His
 
