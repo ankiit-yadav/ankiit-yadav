@@ -18,7 +18,7 @@ The crossover between design and programming has always been of interest to me.I
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankiit-yadav" alt="AnkitYadav" /></a> </p>
 </div>
 
-Languages and Tools: 
+Languages and Tool:
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
