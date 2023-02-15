@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiit-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitYadav" /> </p>
 
-I'm currently learning 
-Full Stack Development
+I'm currently learning MERN
+ Stack Development
 The crossover between design and programming has always been of interest to me.I have a wide range of skills that include front-end development (React, HTML5, CSS3, Javascript, Responsive),Bootstrap, Data structures, Algorithm ,C++,Java.
 
 
