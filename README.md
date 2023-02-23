@@ -1,6 +1,4 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-yadav-75a7a9201/)]([https://www.linkedin.com/in/ankit-yadav-75a7a9201/])
-[![geeksforgeeks Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/ankiityadavv/)]([https://auth.geeksforgeeks.org/user/ankiityadavv/])
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiit-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitYadav" /> </p>
 
@@ -8,6 +6,8 @@ I'm currently learning MERN
  Stack Development
 The crossover between design and programming has always been of interest to me.I have a wide range of skills that include front-end development (React, HTML5, CSS3, Javascript, Responsive),Bootstrap, Data structures, Algorithm ,C++,Java.
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-yadav-75a7a9201/)]([https://www.linkedin.com/in/ankit-yadav-75a7a9201/])
+[![geeksforgeeks Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/ankiityadavv/)]([https://auth.geeksforgeeks.org/user/ankiityadavv/])
 
 
 
